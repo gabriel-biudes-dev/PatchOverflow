@@ -1,6 +1,6 @@
 # Buffer Overflow Binary Patching
 
-Description: This project demonstrates how buffer overflow vulnerabilities can still be exploited through binary patching. Even when basic secure coding practices like limiting input size with scanf("%31s", buffer) are used, attackers can modify the compiled binary to remove these input limits and potentially exploit the vulnerability.
+Description: This project demonstrates how buffer overflow vulnerabilities can still be exploited through binary patching. Even when basic secure coding practices like limiting input size are used, attackers can modify the compiled binary to remove these input limits and potentially exploit the vulnerability.
 
 How It Works: The code allows you to:
 
